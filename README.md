@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajnath Singh Tomar
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning front end development
+- 
 
 - 📫 How to reach me www.linkedin.com/in/
 rajnathsingh9520
