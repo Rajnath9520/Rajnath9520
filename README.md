@@ -15,8 +15,8 @@ deliver effective solutions.
 - Cloud & Tools: Git, GitHub, REST APIs
 
 ## Projects & Experience
--StayMania Platform – A real-world web application focused on structured CRUD operations, user workflows, and scalable backend logic.
--Portfolio Website – Designed and developed to showcase projects, achievements, and technical skills with a clean and user-friendly interface.
+- StayMania Platform – A real-world web application focused on structured CRUD operations, user workflows, and scalable backend logic.
+- Portfolio Website – Designed and developed to showcase projects, achievements, and technical skills with a clean and user-friendly interface.
 
 Through these projects, I have strengthened my ability to analyze problems, design efficient systems, and deliver maintainable solutions.
 
