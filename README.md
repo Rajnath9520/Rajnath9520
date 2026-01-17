@@ -15,8 +15,8 @@ deliver effective solutions.
 - Cloud & Tools: Git, GitHub, REST APIs
 
 ## Projects & Experience
-- StayMania Platform – A real-world web application focused on structured CRUD operations, user workflows, and scalable backend logic.
-- Portfolio Website – Designed and developed to showcase projects, achievements, and technical skills with a clean and user-friendly interface.
+- StayMania Platform – A real-world web application focused on structured CRUD operations, user workflows, compolete routes and scalable backend logic.
+- Portfolio Website – Designed and developed to showcase projects, achievements, and technical skills with a clean and user-friendly interface with crud operations.
 
 Through these projects, I have strengthened my ability to analyze problems, design efficient systems, and deliver maintainable solutions.
 
@@ -29,5 +29,6 @@ Development Focus: Clean architecture, CRUD systems, performance, and scalabilit
 
 ## Connect With Me
 **LinkedIn:**: https://www.linkedin.com/in/rajnathsingh9520
+**Discord**:rajnath_76994
 
 
