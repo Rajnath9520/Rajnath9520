@@ -1,5 +1,5 @@
 **Hello, I’m @Rajnath Singh Tomar**
-- I’m passioante about full stack developer
+- I’m a Full Stack Deaveloper
 
 - I am a detail-oriented and highly motivated B.Tech student in Information Technology, passionate about building scalable,
 real-world software solutions. My core strength lies in full-stack web development having understandig that how system work on browser,
@@ -29,6 +29,7 @@ Development Focus: Clean architecture, CRUD systems, performance, and scalabilit
 
 ## Connect With Me
 **LinkedIn:**: https://www.linkedin.com/in/rajnathsingh9520
+
 **Discord**:rajnath_76994
 
 
