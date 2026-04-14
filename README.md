@@ -9,14 +9,16 @@ the StayMania platform and portfolio website using crud  showcasing a strong abi
 deliver effective solutions.
 
 ## Technical Expertise-->
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js, Next js
 - Frontend: HTML, CSS, JavaScript, React
-- Database: MongoDB, MySQL
-- Cloud & Tools: Git, GitHub, REST APIs
+- Database: MongoDB, MySQL, PostgreSQL
+- Cloud & Tools: Git, Docker, CI/CD Pipelines, Render, vercel, AWS
 
 ## Projects & Experience
 - StayMania Platform – A real-world web application focused on structured CRUD operations, user workflows, compolete routes and scalable backend logic.
 - Portfolio Website – Designed and developed to showcase projects, achievements, and technical skills with a clean and user-friendly interface with crud operations.
+- finance-Control –  A backend system enabling multi-tenant financial record management with secure CRUD operations.
+- Milkr - A Real World Web application for realtime delivery mangement.
 
 Through these projects, I have strengthened my ability to analyze problems, design efficient systems, and deliver maintainable solutions.
 
